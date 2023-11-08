@@ -95,7 +95,7 @@
        fx="90.160545"
        fy="83.521385"
        r="57.85778"
-       gradientTransform="matrix(1,0,0,0.21646749,1.0747429,77.014798)"
+       gradientTransform="matrix(1,0,0,0.21646749,1.5268003,77.014798)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
@@ -127,9 +127,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="385.08724"
-     inkscape:cy="854.65348"
+     inkscape:zoom="0.7"
+     inkscape:cx="158.86691"
+     inkscape:cy="921.89599"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -266,7 +266,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.30938339px;line-height:1.25;font-family:'Cheese Donuts';-inkscape-font-specification:'Cheese Donuts, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#radialGradient908);fill-opacity:1;stroke:none;stroke-width:0.83273447"
-       x="32.041931"
+       x="32.493988"
        y="106.88598"
        id="text832-0"
        transform="scale(1.1705741,0.85428168)"
@@ -274,8 +274,36 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan830-9"
-         x="32.041931"
+         x="32.493988"
          y="106.88598"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.30938339px;font-family:'Cheese Donuts';-inkscape-font-specification:'Cheese Donuts, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#radialGradient908);fill-opacity:1;stroke-width:0.83273447">FIYUWITT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.86348391px;line-height:1.25;font-family:'Cheese Donuts';-inkscape-font-specification:'Cheese Donuts, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19658931"
+       x="79.694649"
+       y="117.53662"
+       id="text844"
+       transform="scale(1.0713863,0.93337015)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan842"
+         x="79.694649"
+         y="117.53662"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.86348391px;font-family:'Cheese Donuts';-inkscape-font-specification:'Cheese Donuts, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.19658931">Press [Space]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.86348343px;line-height:1.25;font-family:'Cheese Donuts';-inkscape-font-specification:'Cheese Donuts, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:0.19658931"
+       x="68.856979"
+       y="18.675083"
+       id="text844-9"
+       transform="scale(1.0713863,0.93337016)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan842-0"
+         x="68.856979"
+         y="18.675083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.86348343px;font-family:'Cheese Donuts';-inkscape-font-specification:'Cheese Donuts, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.19658931">Audichu presents</tspan></text>
   </g>
 </svg>
